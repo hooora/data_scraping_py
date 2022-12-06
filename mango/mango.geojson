@@ -1,0 +1,4283 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11875",
+        "addr:housenumber": "55",
+        "addr:street": "Grand Place",
+        "addr:zipcode": "38100",
+        "addr:city": "Grenoble",
+        "phone": "+33 4 38 70 24 20",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.7322164836058,
+          45.157957979999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9546",
+        "addr:housenumber": "263",
+        "addr:street": "Rue Eugène Ducretet",
+        "addr:zipcode": "73000",
+        "addr:city": "Chambery",
+        "phone": "+33 4 79 68 76 80",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.8971602999998,
+          45.5945033
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "5211",
+        "addr:housenumber": "6",
+        "addr:street": "Place Pierre Lubat",
+        "addr:zipcode": "26000",
+        "addr:city": "Valence",
+        "phone": "+33 4 75 61 79 94",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.9295897,
+          44.9526578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "3878",
+        "addr:housenumber": "165",
+        "addr:street": "ROUTE NATIONALE 7",
+        "addr:zipcode": "38150",
+        "addr:city": "Salaise-Sur-Saine",
+        "phone": "",
+        "opening_hours": "Mo-Sa 09:30-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.8058382000694,
+          45.342284213222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10571",
+        "addr:housenumber": "4",
+        "addr:street": "Quai Eustache Chappuis",
+        "addr:zipcode": "74000",
+        "addr:city": "Annecy",
+        "phone": "+33 4 50 52 81 85",
+        "opening_hours": "Mo-Sa 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          6.1272903232786,
+          45.900905423801
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11574",
+        "addr:housenumber": "",
+        "addr:street": "Av des Alpes",
+        "addr:zipcode": "74330",
+        "addr:city": "Epagny",
+        "phone": "+33 4 50 24 10 05",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          6.0759299999999,
+          45.93882
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10737",
+        "addr:housenumber": "17",
+        "addr:street": "Rue du Docteur Bouchut",
+        "addr:zipcode": "69003",
+        "addr:city": "Lyon",
+        "phone": "+33 4 37 57 41 94",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.8562400687866,
+          45.761056761136
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10548",
+        "addr:housenumber": "112",
+        "addr:street": "Cours Charlemagne",
+        "addr:zipcode": "69002",
+        "addr:city": "Lyon",
+        "phone": "+33 4 78 62 70 86",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.8162517564221,
+          45.741362144061
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10453",
+        "addr:housenumber": "48",
+        "addr:street": "Rue de la République 2E Arrondissement",
+        "addr:zipcode": "69002",
+        "addr:city": "Lyon",
+        "phone": "+33 4 72 82 87 40",
+        "opening_hours": "Mo-Sa 10:00-19:30; Su 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.8352250816144,
+          45.760136691774
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "6430",
+        "addr:housenumber": "50",
+        "addr:street": "Rue Pierre Julien",
+        "addr:zipcode": "26200",
+        "addr:city": "Montelimar",
+        "phone": "+33 4 75 01 27 93",
+        "opening_hours": "Tu-Sa 09:30-12:30,14:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.7507626,
+          44.5573572
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10826",
+        "addr:housenumber": "7",
+        "addr:street": "Place des Ursules",
+        "addr:zipcode": "42000",
+        "addr:city": "Saint-Etienne",
+        "phone": "+33 4 77 33 71 65",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.3870190140166,
+          45.43522024295
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7553",
+        "addr:housenumber": "389",
+        "addr:street": "Rue Nationale",
+        "addr:zipcode": "69400",
+        "addr:city": "Villefranche-Sur-Saone",
+        "phone": "+33 9 66 94 53 73",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.7190498337295,
+          45.99185937783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11294",
+        "addr:housenumber": "11",
+        "addr:street": "Rue du Chablais",
+        "addr:zipcode": "74100",
+        "addr:city": "Annemasse",
+        "phone": "+33 4 50 83 86 76",
+        "opening_hours": "Mo-Sa 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          6.2367347834671,
+          46.196025990263
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7517",
+        "addr:housenumber": "1380",
+        "addr:street": "Blvd des Crêtes du Revermont",
+        "addr:zipcode": "01000",
+        "addr:city": "Bourg-En-Bresse",
+        "phone": "+33 9 61 23 51 82",
+        "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.2418538,
+          46.220458
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "12248",
+        "addr:housenumber": "",
+        "addr:street": "RUE CINSAULT,LOCAL 11B",
+        "addr:zipcode": "84100",
+        "addr:city": "Le Pontet",
+        "phone": "",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.8521094758833,
+          44.111165630505
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10830",
+        "addr:housenumber": "",
+        "addr:street": "Route de Carpentras",
+        "addr:zipcode": "84130",
+        "addr:city": "Le Pontet",
+        "phone": "+33 4 32 74 16 57",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.88246,
+          43.982863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11683",
+        "addr:housenumber": "245",
+        "addr:street": "St/Angle Place 245 Cours Gimon",
+        "addr:zipcode": "13300",
+        "addr:city": "Salon-De-Provence",
+        "phone": "+33 4 90 50 53 54",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.0992297269835,
+          43.638086920708
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10328",
+        "addr:housenumber": "10",
+        "addr:street": "Rue Vauvenargues",
+        "addr:zipcode": "13100",
+        "addr:city": "Aix-En-Provence",
+        "phone": "+33 4 42 96 66 29",
+        "opening_hours": "Mo-Sa 10:00-18:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.4483494999999,
+          43.530086999999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8681",
+        "addr:housenumber": "",
+        "addr:street": "Shopping Promenade Allée Colonel Arnaud Beltrame 13200 ARLES",
+        "addr:zipcode": "13200",
+        "addr:city": "Nimes",
+        "phone": "",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.6440844,
+          43.7044185
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11706",
+        "addr:housenumber": "",
+        "addr:street": "Cap Costieres 400 Av Claude",
+        "addr:zipcode": "30000",
+        "addr:city": "Nimes",
+        "phone": "+33 4 66 36 05 50",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.3632082778013,
+          43.813137171458
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "3838",
+        "addr:housenumber": "17",
+        "addr:street": "Boulevard de la Republique",
+        "addr:zipcode": "71100",
+        "addr:city": "Chalon-Sur-Saone",
+        "phone": "+33 3 85 48 01 39",
+        "opening_hours": "Mo-Su 10:00-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.850342335057,
+          46.783503993292
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11844",
+        "addr:housenumber": "",
+        "addr:street": "Av du Plan de Campagne",
+        "addr:zipcode": "13480",
+        "addr:city": "Cabries",
+        "phone": "+33 4 42 06 28 41",
+        "opening_hours": "Mo-Su 09:30-19:30",
+        "collections": "women;men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.3624460687866,
+          43.420583407662
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "4410",
+        "addr:housenumber": "606",
+        "addr:street": "BLD DU MERCANTOUR",
+        "addr:zipcode": "06200",
+        "addr:city": "Nice",
+        "phone": "+33 4 93 41 70 00",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.1877483680534,
+          43.73035673986
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11960",
+        "addr:housenumber": "119",
+        "addr:street": "Av. des Alpes (local B5)",
+        "addr:zipcode": "06800",
+        "addr:city": "Cagnes-Sur-Mer",
+        "phone": "+33 4 93 08 18 17",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "collections": "men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.126301,
+          43.665363
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11049",
+        "addr:housenumber": "119",
+        "addr:street": "Av des Alpes",
+        "addr:zipcode": "06800",
+        "addr:city": "Cagnes-Sur-Mer",
+        "phone": "+33 4 92 02 90 17",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.127595992868,
+          43.664076137994
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10587",
+        "addr:housenumber": "18",
+        "addr:street": "Av Jean Medecin",
+        "addr:zipcode": "06000",
+        "addr:city": "Nice",
+        "phone": "+33 4 93 81 43 19",
+        "opening_hours": "Mo-Sa 10:00-19:30; Su 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.2686848306882,
+          43.700032851934
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11780",
+        "addr:housenumber": "",
+        "addr:street": "Av Eugène Donadei",
+        "addr:zipcode": "06700",
+        "addr:city": "Saint-Laurent-Du-Var",
+        "phone": "+33 4 93 31 57 70",
+        "opening_hours": "Mo-Sa 10:00-20:30; Su 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.1969207137694,
+          43.65988552581
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "12422",
+        "addr:housenumber": "48",
+        "addr:street": "RUE D'ANTIBES",
+        "addr:zipcode": "06400",
+        "addr:city": "Cannes",
+        "phone": "",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.0197924999998,
+          43.5524081
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "12421",
+        "addr:housenumber": "84",
+        "addr:street": "RUE D'ANTIBES",
+        "addr:zipcode": "06400",
+        "addr:city": "Cannes",
+        "phone": "",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.0234341,
+          43.5522771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7411",
+        "addr:housenumber": "4",
+        "addr:street": "Blvd du Président Wilson",
+        "addr:zipcode": "06600",
+        "addr:city": "Antibes",
+        "phone": "+33 4 92 93 01 20",
+        "opening_hours": "Mo-Sa 10:00-18:50",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.1205911539673,
+          43.5797202
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11122",
+        "addr:housenumber": "",
+        "addr:street": "Route de Gemenos",
+        "addr:zipcode": "13400",
+        "addr:city": "Aubagne",
+        "phone": "+33 4 42 08 38 56",
+        "opening_hours": "Mo-Sa 09:30-20:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.5920230100647,
+          43.293859200951
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11506",
+        "addr:housenumber": "",
+        "addr:street": "Rue des Docks",
+        "addr:zipcode": "13002",
+        "addr:city": "Marseille",
+        "phone": "+33 4 91 35 93 39",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "collections": "women;men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.3651599169189,
+          43.306026505508
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10409",
+        "addr:housenumber": "",
+        "addr:street": "Route de la Sabliere",
+        "addr:zipcode": "13011",
+        "addr:city": "Marseille",
+        "phone": "+33 4 91 35 29 72",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.4780287457897,
+          43.291222838781
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9961",
+        "addr:housenumber": "",
+        "addr:street": "BD SAINT-JEAN",
+        "addr:zipcode": "63100",
+        "addr:city": "Clermont-Ferrand",
+        "phone": "+33 4 73 26 91 32",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.1187543,
+          45.783845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10648",
+        "addr:housenumber": "2",
+        "addr:street": "Place de Lisbonne",
+        "addr:zipcode": "34000",
+        "addr:city": "Montpellier",
+        "phone": "+33 4 99 64 67 29",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.9212233021606,
+          43.605090832621
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10680",
+        "addr:housenumber": "",
+        "addr:street": "Rue de Dole",
+        "addr:zipcode": "25000",
+        "addr:city": "Besancon",
+        "phone": "+33 3 81 51 71 65",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.9453138389037,
+          47.215196533892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9673",
+        "addr:housenumber": "",
+        "addr:street": "Route de Carnon",
+        "addr:zipcode": "34970",
+        "addr:city": "Lattes",
+        "phone": "+33 4 67 99 02 03",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-20:30",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.9295264683228,
+          43.582975558053
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11874",
+        "addr:housenumber": "1",
+        "addr:street": "Rue des Pertuisanes",
+        "addr:zipcode": "34000",
+        "addr:city": "Montpellier",
+        "phone": "+33 4 67 22 11 41",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.884944315869,
+          43.608338830588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11319",
+        "addr:housenumber": "",
+        "addr:street": "Av de L'Université",
+        "addr:zipcode": "83160",
+        "addr:city": "La Valette-Du-Var",
+        "phone": "+33 4 94 12 20 81",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          6.0156179545531,
+          43.14156698842
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10006",
+        "addr:housenumber": "29/31",
+        "addr:street": "Grand Rue Jean Moulin",
+        "addr:zipcode": "34000",
+        "addr:city": "Montpellier",
+        "phone": "+33 4 67 60 72 22",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.8773908558197,
+          43.607739088449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11913",
+        "addr:housenumber": "6",
+        "addr:street": "Rue Pasteur",
+        "addr:zipcode": "25000",
+        "addr:city": "Besancon",
+        "phone": "+33 3 81 61 79 77",
+        "opening_hours": "Mo-Sa 10:00-19:30",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          6.0217146134916,
+          47.238526173521
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10930",
+        "addr:housenumber": "85 - 87",
+        "addr:street": "Rue de la Liberté",
+        "addr:zipcode": "21000",
+        "addr:city": "Dijon",
+        "phone": "+33 3 80 41 36 59",
+        "opening_hours": "Mo-Sa 10:00-17:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.0399763760226,
+          47.321797902811
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11505",
+        "addr:housenumber": "",
+        "addr:street": "Route de Langres, Local E119",
+        "addr:zipcode": "21000",
+        "addr:city": "Dijon",
+        "phone": "+33 3 80 35 05 67",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-20:00",
+        "collections": "men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.0508922999999,
+          47.3559849
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11920",
+        "addr:housenumber": "",
+        "addr:street": "Centre Cial. de la Toison d'Or Local: 108-105C",
+        "addr:zipcode": "21000",
+        "addr:city": "Dijon",
+        "phone": "+33 3 80 43 21 18",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.050161504785,
+          47.35699564454
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7905",
+        "addr:housenumber": "8",
+        "addr:street": "Rue de l'Hôtel de Ville",
+        "addr:zipcode": "15000",
+        "addr:city": "Aurillac",
+        "phone": "+33 9 67 74 89 23",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.4455148951064,
+          44.929559876661
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "6064",
+        "addr:housenumber": "",
+        "addr:street": "Pôle Commercial Comtal Sud",
+        "addr:zipcode": "12850",
+        "addr:city": "Rodez",
+        "phone": "+33 5 65 46 83 64",
+        "opening_hours": "Mo-Sa 09:30-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.602076,
+          44.392555
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "5618",
+        "addr:housenumber": "",
+        "addr:street": "AV.Des Sergents",
+        "addr:zipcode": "34300",
+        "addr:city": "Agde",
+        "phone": "",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.5079377,
+          43.28833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7367",
+        "addr:housenumber": "10",
+        "addr:street": "Rue des Ardilliers",
+        "addr:zipcode": "58000",
+        "addr:city": "Nevers",
+        "phone": "+33 3 86 59 70 12",
+        "opening_hours": "Mo 14:00-18:00; Tu-Sa 10:00-18:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.1611444794846,
+          46.991927869674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11902",
+        "addr:housenumber": "3",
+        "addr:street": "Carrefour Hours",
+        "addr:zipcode": "34500",
+        "addr:city": "Béziers",
+        "phone": "+33 4 67 76 14 58",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.2252363757324,
+          43.335868174023
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11901",
+        "addr:housenumber": "3",
+        "addr:street": "Carrefour de l'Hours, Locaux 229 233 CC Polygone Béziers",
+        "addr:zipcode": "34500",
+        "addr:city": "Béziers",
+        "phone": "+33 4 67 98 15 33",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.2252792910767,
+          43.335805745616
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "5078",
+        "addr:housenumber": "11",
+        "addr:street": "Cours de la République",
+        "addr:zipcode": "11100",
+        "addr:city": "Narbonne",
+        "phone": "+33 9 81 15 88 87",
+        "opening_hours": "Mo 14:00-19:00; Tu-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.0046929760572,
+          43.183209524013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11147",
+        "addr:housenumber": "",
+        "addr:street": "La Galerie, 54 Rue du Sauvage",
+        "addr:zipcode": "68100",
+        "addr:city": "Mulhouse",
+        "phone": "+33 3 89 43 13 49",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.3389590895491,
+          47.748417846346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7231",
+        "addr:housenumber": "1",
+        "addr:street": "Rue de Saunal",
+        "addr:zipcode": "81000",
+        "addr:city": "Albi",
+        "phone": "+33 5 63 80 13 80",
+        "opening_hours": "Mo 14:00-19:00; Tu-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.1449912306884,
+          43.927125342464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "5667",
+        "addr:housenumber": "7",
+        "addr:street": "RUE DE SOULTZ",
+        "addr:zipcode": "68270",
+        "addr:city": "Wittenheim",
+        "phone": "",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.3134341239929,
+          47.797660827636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "4707",
+        "addr:housenumber": "",
+        "addr:street": "Rue des Portes d Albi Zone Artisanale de Fonlabourg",
+        "addr:zipcode": "81000",
+        "addr:city": "Albi",
+        "phone": "+33 5 63 54 71 33",
+        "opening_hours": "Mo-Sa 09:30-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.1138978366962,
+          43.918983826805
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8187",
+        "addr:housenumber": "23",
+        "addr:street": "Rue villegoudou",
+        "addr:zipcode": "81100",
+        "addr:city": "Castres",
+        "phone": "+33 5 63 35 03 73",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.2414885,
+          43.6050293
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11499",
+        "addr:housenumber": "8",
+        "addr:street": "Avenue de Peterborough",
+        "addr:zipcode": "18000",
+        "addr:city": "Bourges",
+        "phone": "+33 2 48 69 24 60",
+        "opening_hours": "Mo-Sa 10:00-19:30",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3957914,
+          47.087274188943
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9217",
+        "addr:housenumber": "",
+        "addr:street": "C/MONIER - PARCELA 36, N&#&#§;; 8",
+        "addr:zipcode": "88000",
+        "addr:city": "Épinal",
+        "phone": "+33 3 29 38 14 34",
+        "opening_hours": "Mo-Sa 09:30-19:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          6.470657,
+          48.187978
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9223",
+        "addr:housenumber": "2",
+        "addr:street": "RUE JOSEPHINE BAKER",
+        "addr:zipcode": "11000",
+        "addr:city": "Carcassonne",
+        "phone": "+33 4 68 11 41 05",
+        "opening_hours": "Mo-Sa 09:30-19:30",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3925096361576,
+          43.207444639851
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8493",
+        "addr:housenumber": "27",
+        "addr:street": "Rue du Maréchal Foch",
+        "addr:zipcode": "46000",
+        "addr:city": "Cahors",
+        "phone": "+33 5 65 22 71 49",
+        "opening_hours": "Mo 14:00-19:00; Tu-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.4408085999998,
+          44.447476599999
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9694",
+        "addr:housenumber": "",
+        "addr:street": "Route de Barcares",
+        "addr:zipcode": "66530",
+        "addr:city": "Claira",
+        "phone": "",
+        "opening_hours": "Mo-Sa 09:30-19:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.9126637801176,
+          42.774154430874
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "4523",
+        "addr:housenumber": "39 bis",
+        "addr:street": "Avenue Garibaldi",
+        "addr:zipcode": "87000",
+        "addr:city": "Limoges",
+        "phone": "+33 5 55 39 15 05",
+        "opening_hours": "Mo-Sa 09:30-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.259467432464,
+          45.836264419579
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "5000",
+        "addr:housenumber": "39",
+        "addr:street": "Quai Sébastien Vauban",
+        "addr:zipcode": "66000",
+        "addr:city": "Perpignan",
+        "phone": "+33 4 30 44 47 41",
+        "opening_hours": "Mo-Sa 09:30-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.8922551,
+          42.699737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7872",
+        "addr:housenumber": "",
+        "addr:street": "Av d'Espagne",
+        "addr:zipcode": "66000",
+        "addr:city": "Perpignan",
+        "phone": "+33 4 30 44 47 56",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.8799942180853,
+          42.669197985831
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9820",
+        "addr:housenumber": "1000",
+        "addr:street": "Route du Nord",
+        "addr:zipcode": "82000",
+        "addr:city": "Montauban",
+        "phone": "+33 5 63 20 40 32",
+        "opening_hours": "Mo 10:00-19:00; Tu-Fr 09:30-19:00; Sa 09:30-19:30",
+        "collections": "women;men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.3885842986724,
+          44.04286328339
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8206",
+        "addr:housenumber": "",
+        "addr:street": "Lieu-dit Chambertrand",
+        "addr:zipcode": "89100",
+        "addr:city": "Sens",
+        "phone": "+33 3 86 67 20 84",
+        "opening_hours": "Mo-Su 10:00-12:30,13:30-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.2934573014525,
+          48.171410206486
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10429",
+        "addr:housenumber": "700",
+        "addr:street": "La Pyreneenne",
+        "addr:zipcode": "31670",
+        "addr:city": "Labege",
+        "phone": "+33 5 61 33 45 35",
+        "opening_hours": "Mo 09:30-20:30; Tu-Sa 09:30-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.5082310999999,
+          43.549504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9818",
+        "addr:housenumber": "19",
+        "addr:street": "Rue des Usines, ZI Saint-Jory (Fenouillet)",
+        "addr:zipcode": "31150",
+        "addr:city": "Toulouse",
+        "phone": "+33 5 61 74 76 78",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "collections": "women;men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.4018300975645,
+          43.688373695054
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "3757",
+        "addr:housenumber": "51BIS",
+        "addr:street": "Rue Rempart St.Etienne",
+        "addr:zipcode": "31000",
+        "addr:city": "Toulouse",
+        "phone": "",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "collections": "women;men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.4495150291442,
+          43.603165720287
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10973",
+        "addr:housenumber": "10",
+        "addr:street": "Rue du Poids de l'Huile",
+        "addr:zipcode": "31000",
+        "addr:city": "Toulouse",
+        "phone": "+33 5 61 22 78 15",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.4453267509261,
+          43.604054612548
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10974",
+        "addr:housenumber": "2",
+        "addr:street": "Allée Emile Zola",
+        "addr:zipcode": "31700",
+        "addr:city": "Blagnac",
+        "phone": "+33 5 34 39 01 96",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.3714841656067,
+          43.644651006881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "3822",
+        "addr:housenumber": "239",
+        "addr:street": "Avenue de l'Automobile",
+        "addr:zipcode": "24750",
+        "addr:city": "Kingston",
+        "phone": "+33 5 53 13 46 09",
+        "opening_hours": "Mo-Sa 09:30-19:30",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          0.7620433663787,
+          45.191672197059
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10757",
+        "addr:housenumber": "9",
+        "addr:street": "Rue Saint-Jean",
+        "addr:zipcode": "54000",
+        "addr:city": "Nancy",
+        "phone": "+33 3 83 37 13 34",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          6.181992,
+          48.6905897
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10976",
+        "addr:housenumber": "3",
+        "addr:street": "Allee de Fraixinet",
+        "addr:zipcode": "31120",
+        "addr:city": "Roques Sur Garonne",
+        "phone": "+33 5 61 41 87 29",
+        "opening_hours": "Mo-Su 09:30-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.3704271999999,
+          43.5135649
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "2349",
+        "addr:housenumber": "",
+        "addr:street": "Rue des Terrasses,",
+        "addr:zipcode": "57400",
+        "addr:city": "Sarrebourg",
+        "phone": "+33 3 87 25 65 28",
+        "opening_hours": "Mo-Tu 09:00-19:00; We-Su 10:00-18:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.0463236309049,
+          48.718232277748
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "4916",
+        "addr:housenumber": "4",
+        "addr:street": "Blvd Paoli",
+        "addr:zipcode": "20200",
+        "addr:city": "Bastia",
+        "phone": "+33 4 95 34 33 68",
+        "opening_hours": "Mo-Sa 09:30-19:30",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          9.4480465632292,
+          42.696464802303
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10568",
+        "addr:housenumber": "1-3",
+        "addr:street": "route du Rhin",
+        "addr:zipcode": "67100",
+        "addr:city": "Strasbourg",
+        "phone": "+33 3 90 41 02 35",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.7586771929763,
+          48.573558256055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10249",
+        "addr:housenumber": "77",
+        "addr:street": "Rue des Grandes Arcades",
+        "addr:zipcode": "67000",
+        "addr:city": "Strasbourg",
+        "phone": "+33 3 88 32 00 52",
+        "opening_hours": "Mo-Sa 11:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.7480967509261,
+          48.581995011116
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10202",
+        "addr:housenumber": "24",
+        "addr:street": "Place des Halles",
+        "addr:zipcode": "67000",
+        "addr:city": "Strasbourg",
+        "phone": "+33 3 88 32 71 07",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.7407705170578,
+          48.586440481066
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7515",
+        "addr:housenumber": "11",
+        "addr:street": "Rue du Colonel de Chadois",
+        "addr:zipcode": "24100",
+        "addr:city": "Bergerac",
+        "phone": "+33 5 53 22 11 52",
+        "opening_hours": "Mo 14:00-19:00; Tu-We 10:00-19:00; Th 10:00-12:30,14:00-19:00; Fr-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          0.4846668932541,
+          44.852353652233
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11705",
+        "addr:housenumber": "",
+        "addr:street": "B39 B37 Route Nationale 63",
+        "addr:zipcode": "67450",
+        "addr:city": "Mundolsheim",
+        "phone": "+33 3 88 50 54 58",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-20:20",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.7253706132446,
+          48.653857156759
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "5752",
+        "addr:housenumber": "",
+        "addr:street": "KANYON HAGADOL",
+        "addr:zipcode": "47550",
+        "addr:city": "Agen",
+        "phone": "+33 5 53 86 32 88",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          0.62882,
+          44.17593
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11419",
+        "addr:housenumber": "2",
+        "addr:street": "Rue Nicolas Copernic",
+        "addr:zipcode": "45000",
+        "addr:city": "Orleans",
+        "phone": "+33 2 38 54 32 40",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.9050610127582,
+          47.907238809938
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9853",
+        "addr:housenumber": "10",
+        "addr:street": "Av Mercuria",
+        "addr:zipcode": "51470",
+        "addr:city": "Saint-Memmie",
+        "phone": "+33 3 26 26 74 22",
+        "opening_hours": "Mo 14:00-19:00; Tu-Su 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.3862060037048,
+          48.945703761649
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11959",
+        "addr:housenumber": "1",
+        "addr:street": "Rue de la Pie Grieche",
+        "addr:zipcode": "57160",
+        "addr:city": "Moulins-Les-Metz",
+        "phone": "+33 3 87 18 85 85",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          6.1033773232787,
+          49.081705936177
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "2173",
+        "addr:housenumber": "",
+        "addr:street": "Route de Mezzavia",
+        "addr:zipcode": "20167",
+        "addr:city": "Ajaccio",
+        "phone": "",
+        "opening_hours": "Mo-Sa 09:30-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          8.7769318867858,
+          41.949859203738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9708",
+        "addr:housenumber": "10",
+        "addr:street": "Cours Napoléon",
+        "addr:zipcode": "20000",
+        "addr:city": "Ajaccio",
+        "phone": "+33 4 95 71 06 53",
+        "opening_hours": "Mo-Tu 09:00-19:00; We-Su 09:30-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          8.7370733,
+          41.9196833
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7879",
+        "addr:housenumber": "",
+        "addr:street": "Rue des Messageries",
+        "addr:zipcode": "57000",
+        "addr:city": "Metz",
+        "phone": "+33 9 63 53 92 69",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          6.1820134730162,
+          49.10672124139
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11741",
+        "addr:housenumber": "",
+        "addr:street": "Local Mu 03 - 4 Rue Henri Oudin",
+        "addr:zipcode": "86000",
+        "addr:city": "Poitiers",
+        "phone": "+33 5 49 62 40 29",
+        "opening_hours": "Mo-Sa 10:00-19:30",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          0.3419505674589,
+          46.58182697178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10488",
+        "addr:housenumber": "",
+        "addr:street": "Allee du Preambule",
+        "addr:zipcode": "77127",
+        "addr:city": "Lieusaint",
+        "phone": "+33 1 64 13 08 29",
+        "opening_hours": "Mo-Sa 10:00-20:30; Su 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.5474589312134,
+          48.614360937773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11556",
+        "addr:housenumber": "59",
+        "addr:street": "Av Marcel Merieux",
+        "addr:zipcode": "37200",
+        "addr:city": "Tours",
+        "phone": "+33 2 47 39 66 12",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          0.6784451306884,
+          47.365604355785
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "13870",
+        "addr:housenumber": "2",
+        "addr:street": "Boulevard de l'Europe",
+        "addr:zipcode": "91000",
+        "addr:city": "Evry",
+        "phone": "+33 1 64 57 35 86",
+        "opening_hours": "Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 10:00-20:00",
+        "collections": "women;men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.4261,
+          48.629
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10620",
+        "addr:housenumber": "14",
+        "addr:street": "Cours du Danube- Serris",
+        "addr:zipcode": "77700",
+        "addr:city": "Serris",
+        "phone": "+33 1 60 45 96 33",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.7813688457854,
+          48.855090948907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "2733",
+        "addr:housenumber": "4",
+        "addr:street": "rue des Laps",
+        "addr:zipcode": "51350",
+        "addr:city": "Cormontreuil",
+        "phone": "",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.0477191719663,
+          49.215490313956
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11879",
+        "addr:housenumber": "",
+        "addr:street": "Av du Luxembourg",
+        "addr:zipcode": "94320",
+        "addr:city": "Thiais",
+        "phone": "+33 1 46 86 69 94",
+        "opening_hours": "Mo 10:00-20:00; Tu-Fr 10:00-20:30; Sa 10:00-20:00; Su 11:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3710343550169,
+          48.756649829562
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9499",
+        "addr:housenumber": "3",
+        "addr:street": "Av Roland Moreno",
+        "addr:zipcode": "77124",
+        "addr:city": "Chauconin-Neufmontiers",
+        "phone": "+33 1 64 33 29 37",
+        "opening_hours": "Mo-Th 10:00-19:30; Fr-Sa 10:00-19:45",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.8605112329712,
+          48.958158474008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8258",
+        "addr:housenumber": "3",
+        "addr:street": "Place du Général de Gaulle",
+        "addr:zipcode": "33210",
+        "addr:city": "Langon",
+        "phone": "+33 5 57 98 01 40",
+        "opening_hours": "Mo 14:00-19:30; Tu-Sa 09:30-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.246474199999,
+          44.5528017
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "15870",
+        "addr:housenumber": "",
+        "addr:street": "Place de la Vache Noire SN",
+        "addr:zipcode": "94110",
+        "addr:city": "Arcueil",
+        "phone": "+33 1 46 55 25 40",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3285967341938,
+          48.811465682082
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "5376",
+        "addr:housenumber": "",
+        "addr:street": "Le Printemps Nation, 21-25 Cours de Vicennes",
+        "addr:zipcode": "75020",
+        "addr:city": "Paris",
+        "phone": "+33 1 43 56 66 31",
+        "opening_hours": "Mo-Sa 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.4011480359374,
+          48.848387544274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10744",
+        "addr:housenumber": "94",
+        "addr:street": "Av du General de Gaulle",
+        "addr:zipcode": "93110",
+        "addr:city": "Rosny-Sous-Bois",
+        "phone": "+33 1 48 55 60 53",
+        "opening_hours": "Mo-Sa 10:00-20:30; Su 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.4788551767212,
+          48.8818610052
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10603",
+        "addr:housenumber": "2",
+        "addr:street": "Av de L'Europe",
+        "addr:zipcode": "78140",
+        "addr:city": "Velizy-Villacoublay",
+        "phone": "+33 1 34 49 67 51",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.2199109343239,
+          48.780607612912
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10193",
+        "addr:housenumber": "3",
+        "addr:street": "Place du 18 Juin 1940",
+        "addr:zipcode": "75006",
+        "addr:city": "Paris",
+        "phone": "+33 1 45 48 04 96",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3245021472214,
+          48.844103765861
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "13710",
+        "addr:housenumber": "44",
+        "addr:street": "avenue du Maine Paris",
+        "addr:zipcode": "75015",
+        "addr:city": "Paris",
+        "phone": "+33 1 42 18 19 99",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-20:00; Su 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.32112,
+          48.84265
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10218",
+        "addr:housenumber": "82",
+        "addr:street": "Rue de Rivoli, 4ème: Hotel de Ville",
+        "addr:zipcode": "75004",
+        "addr:city": "Paris",
+        "phone": "+33 1 44 59 80 37",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "collections": "women;men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3504017048935,
+          48.857968888715
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10256",
+        "addr:housenumber": "1",
+        "addr:street": "Rue Pierre Lescot",
+        "addr:zipcode": "75001",
+        "addr:city": "Paris",
+        "phone": "+33 1 42 36 76 20",
+        "opening_hours": "Mo-Sa 10:00-20:30; Su 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3477397,
+          48.861883236276
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11602",
+        "addr:housenumber": "",
+        "addr:street": "Place du 11 Novembre 1918",
+        "addr:zipcode": "75010",
+        "addr:city": "Paris",
+        "phone": "+33 1 53 26 03 83",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3603689,
+          48.8785618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10069",
+        "addr:housenumber": "6",
+        "addr:street": "Boulevard des Capucines 9E Arrondissement",
+        "addr:zipcode": "75009",
+        "addr:city": "Paris",
+        "phone": "+33 1 53 30 82 70",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3332979883604,
+          48.871157949153
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11896",
+        "addr:housenumber": "18",
+        "addr:street": "Rue de Dunkerque Local 34-39",
+        "addr:zipcode": "75010",
+        "addr:city": "Paris",
+        "phone": "+33 1 40 38 92 25",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3551264,
+          48.8807625
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10462",
+        "addr:housenumber": "54",
+        "addr:street": "Blvd Haussmann",
+        "addr:zipcode": "75009",
+        "addr:city": "Paris",
+        "phone": "+33 1 44 53 73 30",
+        "opening_hours": "Mo 11:00-19:00; Tu-Sa 10:00-20:00; Su 12:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3300816306883,
+          48.873475460337
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11708",
+        "addr:housenumber": "1",
+        "addr:street": "Cour de Rome, local R106C",
+        "addr:zipcode": "75008",
+        "addr:city": "Paris",
+        "phone": "+33 1 53 04 94 74",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa 09:00-20:00; Su 11:00-19:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3242241669339,
+          48.876182747531
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11980",
+        "addr:housenumber": "1",
+        "addr:street": "Blvd. de lEurope Local 202-222",
+        "addr:zipcode": "54350",
+        "addr:city": "Mont-Saint-Martin",
+        "phone": "+33 3 82 44 20 41",
+        "opening_hours": "Mo-Sa 09:30-19:30",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          5.7977200169189,
+          49.543878242532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "3973",
+        "addr:housenumber": "",
+        "addr:street": "Le haut de Galy B104/B105",
+        "addr:zipcode": "93600",
+        "addr:city": "Aulnay-Sous-Bois",
+        "phone": "+33 1 49 47 89 17",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.4754686,
+          48.9583362
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11146",
+        "addr:housenumber": "",
+        "addr:street": "Rue D'alsace",
+        "addr:zipcode": "92300",
+        "addr:city": "Levallois-Perret",
+        "phone": "+33 1 42 70 57 76",
+        "opening_hours": "Mo-Su 10:00-20:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.2967474762573,
+          48.89232820973
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "12348",
+        "addr:housenumber": "",
+        "addr:street": "Rue des Buissons, 30, local n.47",
+        "addr:zipcode": "95700",
+        "addr:city": "Roissy-En-France",
+        "phone": "+33 1 74 25 72 38",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.5219462999999,
+          48.9913196
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11679",
+        "addr:housenumber": "2",
+        "addr:street": "Av Charles de Gaulle",
+        "addr:zipcode": "78150",
+        "addr:city": "Le Chesnay",
+        "phone": "+33 1 39 53 92 34",
+        "opening_hours": "Mo-Su 09:30-18:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.1162085792373,
+          48.828069892069
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10954",
+        "addr:housenumber": "4",
+        "addr:street": "Blvd Gallieni",
+        "addr:zipcode": "92390",
+        "addr:city": "Villeneuve-La-Garenne",
+        "phone": "+33 1 47 33 51 84",
+        "opening_hours": "Mo-Sa 10:00-20:30; Su 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3286775925903,
+          48.925575908932
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10009",
+        "addr:housenumber": "",
+        "addr:street": "LA DÉFENSE CC Les 4 Temps, 15, Parvis de la Défense",
+        "addr:zipcode": "92800",
+        "addr:city": "Puteaux",
+        "phone": "+33 1 47 75 21 24",
+        "opening_hours": "Mo-Sa 10:00-20:30; Su 10:00-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.2380113296385,
+          48.890735266798
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11254",
+        "addr:housenumber": "200",
+        "addr:street": "Av de la Division Leclerc",
+        "addr:zipcode": "95200",
+        "addr:city": "Sarcelles",
+        "phone": "+33 1 34 07 06 28",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3725835756713,
+          48.985617136831
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11264",
+        "addr:housenumber": "",
+        "addr:street": "rue des Frères Lumière",
+        "addr:zipcode": "33324",
+        "addr:city": "Begles",
+        "phone": "+33 5 57 67 21 37",
+        "opening_hours": "Mo-Sa 09:30-20:30",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.531789161285,
+          44.794887460349
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10127",
+        "addr:housenumber": "",
+        "addr:street": "Av des 40 journaux, Quartier du Lac, Local 106",
+        "addr:zipcode": "33080",
+        "addr:city": "Bordeaux",
+        "phone": "+33 5 56 07 21 04",
+        "opening_hours": "Mo-Su 09:30-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.564691554837,
+          44.880197051532
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "13688",
+        "addr:housenumber": "1170",
+        "addr:street": "Avenue de Saint-Germain,",
+        "addr:zipcode": "78370",
+        "addr:city": "Plaisir",
+        "phone": "",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.9607793,
+          48.8267363
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8246",
+        "addr:housenumber": "17",
+        "addr:street": "Rue Ricard",
+        "addr:zipcode": "79000",
+        "addr:city": "Niort",
+        "phone": "+33 5 49 73 26 88",
+        "opening_hours": "Mo-Sa 11:00-13:00,14:00-18:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.460873799999,
+          46.323943
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11050",
+        "addr:housenumber": "24",
+        "addr:street": "Rue Sainte-Catherine",
+        "addr:zipcode": "33000",
+        "addr:city": "Bordeaux",
+        "phone": "+33 5 56 81 30 88",
+        "opening_hours": "Mo-Sa 10:00-19:30; Su 13:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.5742844,
+          44.8406761
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "6822",
+        "addr:housenumber": "41 43",
+        "addr:street": "rue de Pologne",
+        "addr:zipcode": "78100",
+        "addr:city": "Saint-Germain-En-Laye",
+        "phone": "+33 1 39 21 04 26",
+        "opening_hours": "Tu-Fr 10:30-19:00; Sa 10:00-19:00; Su 10:00-13:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.0873684994751,
+          48.898361335503
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "2107",
+        "addr:housenumber": "57",
+        "addr:street": "RUE DU CHATEAU D'EAU",
+        "addr:zipcode": "33000",
+        "addr:city": "Bordeaux",
+        "phone": "",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.58414663558,
+          44.838939378211
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11437",
+        "addr:housenumber": "46 T",
+        "addr:street": "Rue Marechal Foch",
+        "addr:zipcode": "65000",
+        "addr:city": "Tarbes",
+        "phone": "+33 5 62 34 64 98",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          0.0790477,
+          43.2321223
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7970",
+        "addr:housenumber": "26",
+        "addr:street": "Rue Victor Hugo",
+        "addr:zipcode": "17100",
+        "addr:city": "Saintes",
+        "phone": "+33 9 66 88 05 87",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.632000899998,
+          45.746348
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11112",
+        "addr:housenumber": "",
+        "addr:street": "Route Nationale 1",
+        "addr:zipcode": "95570",
+        "addr:city": "Moisselles",
+        "phone": "+33 1 39 35 98 02",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3412769153441,
+          49.039838596585
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10731",
+        "addr:housenumber": "17",
+        "addr:street": "Av de Mérignac",
+        "addr:zipcode": "33700",
+        "addr:city": "Merignac",
+        "phone": "+33 5 56 16 52 78",
+        "opening_hours": "Mo-Sa 09:30-20:30; Su 00:00-00:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.657278092065,
+          44.828912853855
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "12183",
+        "addr:housenumber": "",
+        "addr:street": "Rue de la Croix des Maheux",
+        "addr:zipcode": "95003",
+        "addr:city": "Cergy-Pontoise",
+        "phone": "+33 1 30 73 24 56",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.0815930049158,
+          49.038448412481
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7504",
+        "addr:housenumber": "372",
+        "addr:street": "Rue de la Révolution Française Zone D'activites",
+        "addr:zipcode": "60740",
+        "addr:city": "Saint-Maximin",
+        "phone": "+33 3 44 24 20 26",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.4653568915709,
+          49.23480076399
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "6825",
+        "addr:housenumber": "",
+        "addr:street": "sur le parking E.Leclerc Rue Francois Truffaut",
+        "addr:zipcode": "60230",
+        "addr:city": "Chambly",
+        "phone": "+33 1 30 34 79 58",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.2559751600495,
+          49.157249293973
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7856",
+        "addr:housenumber": "19",
+        "addr:street": "Place Ducale",
+        "addr:zipcode": "08000",
+        "addr:city": "Charleville-Mezieres",
+        "phone": "+33 3 24 56 37 13",
+        "opening_hours": "Mo-Sa 10:00-12:30,13:30-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          4.7208714999999,
+          49.7731986
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "4572",
+        "addr:housenumber": "11",
+        "addr:street": "PLACE DU MARCHE AUX HERBES",
+        "addr:zipcode": "60200",
+        "addr:city": "Compiegne",
+        "phone": "+33 3 44 93 05 43",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.8244787258176,
+          49.417748413272
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7565",
+        "addr:housenumber": "",
+        "addr:street": "COOPERAZIONE allo SVILUPPO",
+        "addr:zipcode": "72230",
+        "addr:city": "Le Mans",
+        "phone": "+33 9 72 65 32 94",
+        "opening_hours": "Mo-Sa 10:00-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          0.239276,
+          47.943858
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10742",
+        "addr:housenumber": "24",
+        "addr:street": "Rue des Minimes",
+        "addr:zipcode": "72000",
+        "addr:city": "Le Mans",
+        "phone": "+33 2 43 57 11 03",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          0.1972742754978,
+          48.002180304111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "4278",
+        "addr:housenumber": "4",
+        "addr:street": "Rue Saint-Jacques",
+        "addr:zipcode": "64000",
+        "addr:city": "Pau",
+        "phone": "+33 5 59 11 12 02",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.370883777314,
+          43.29820707667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "3522",
+        "addr:housenumber": "",
+        "addr:street": "Avenue Vulcain, 670",
+        "addr:zipcode": "33260",
+        "addr:city": "La Teste-De-Buch",
+        "phone": "+33 5 57 63 00 02",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.118439399999,
+          44.6130282
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11576",
+        "addr:housenumber": "75",
+        "addr:street": "Av Montaigne",
+        "addr:zipcode": "49000",
+        "addr:city": "Angers",
+        "phone": "+33 2 41 81 90 77",
+        "opening_hours": "Mo-Sa 09:30-20:30",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.524296,
+          47.467991
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9525",
+        "addr:housenumber": "",
+        "addr:street": "Zac Beaulieu 2000 - Nº 9",
+        "addr:zipcode": "17138",
+        "addr:city": "Puilboreau",
+        "phone": "+33 5 46 66 84 03",
+        "opening_hours": "Mo-Th 09:30-19:00; Fr-Sa 09:30-19:30; Su 10:00-13:00,14:00-18:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.1179716,
+          46.1851158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8497",
+        "addr:housenumber": "1 Bis",
+        "addr:street": "Ancienne Route de Paris",
+        "addr:zipcode": "60000",
+        "addr:city": "Allonne",
+        "phone": "+33 3 44 05 38 68",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-19:15",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.1131201424667,
+          49.407344960768
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8599",
+        "addr:housenumber": "86",
+        "addr:street": "RUE NATIONALE",
+        "addr:zipcode": "49300",
+        "addr:city": "Cholet",
+        "phone": "",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.87882754795,
+          47.062396416264
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7466",
+        "addr:housenumber": "",
+        "addr:street": "Eco Parc du Buisson",
+        "addr:zipcode": "49070",
+        "addr:city": "Beaucouze",
+        "phone": "+33 2 41 77 22 86",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.626833100463,
+          47.484624540959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8316",
+        "addr:housenumber": "",
+        "addr:street": "Rue Missenard Voie Cerisiers",
+        "addr:zipcode": "02100",
+        "addr:city": "Saint-Quentin",
+        "phone": "+33 3 23 68 16 17",
+        "opening_hours": "Mo-Sa 10:00-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.2540655063628,
+          49.855042113883
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "5733",
+        "addr:housenumber": "18",
+        "addr:street": "Rue Georges Clemenceau",
+        "addr:zipcode": "85005",
+        "addr:city": "La Roche-Sur-Yon",
+        "phone": "+33 2 51 62 22 24",
+        "opening_hours": "Mo-Sa 10:00-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.429947,
+          46.670246
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11834",
+        "addr:housenumber": "",
+        "addr:street": "Local 12 C route de nantes",
+        "addr:zipcode": "85000",
+        "addr:city": "La Roche-Sur-Yon",
+        "phone": "+33 2 51 48 99 89",
+        "opening_hours": "Mo-Sa 09:30-19:30",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.432894881506,
+          46.697888297095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11835",
+        "addr:housenumber": "",
+        "addr:street": "Local 12 C Route de Nantes",
+        "addr:zipcode": "85000",
+        "addr:city": "La Roche-Sur-Yon",
+        "phone": "+33 2 51 48 23 18",
+        "opening_hours": "Mo-Su 09:30-19:30",
+        "collections": "men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.432963113243,
+          46.698120533163
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "6299",
+        "addr:housenumber": "",
+        "addr:street": "BIG CENTRE",
+        "addr:zipcode": "59720",
+        "addr:city": "Louvroil",
+        "phone": "+33 3 74 95 87 65",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.93815,
+          50.25568
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8103",
+        "addr:housenumber": "6",
+        "addr:street": "Rue des 3 Cailloux",
+        "addr:zipcode": "80000",
+        "addr:city": "Amiens",
+        "phone": "+33 3 22 33 40 43",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.2978613,
+          49.8927323
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "13700",
+        "addr:housenumber": "150",
+        "addr:street": "Avenue de l'Europe",
+        "addr:zipcode": "80800",
+        "addr:city": "Amiens",
+        "phone": "+33 9 62 56 37 93",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3097327,
+          49.9232301
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11421",
+        "addr:housenumber": "51",
+        "addr:street": "avenue de bretagne",
+        "addr:zipcode": "76100",
+        "addr:city": "Rouen",
+        "phone": "+33 2 35 62 55 03",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.0846205999998,
+          49.4315158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10740",
+        "addr:housenumber": "33",
+        "addr:street": "Rue des Carmes",
+        "addr:zipcode": "76000",
+        "addr:city": "Rouen",
+        "phone": "+33 2 35 36 43 88",
+        "opening_hours": "Mo-Sa 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.0943889232787,
+          49.441733447772
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11568",
+        "addr:housenumber": "",
+        "addr:street": "Rue Ferdinand de Lesseps",
+        "addr:zipcode": "76000",
+        "addr:city": "Rouen",
+        "phone": "+33 2 32 18 69 08",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.0655141101034,
+          49.446617758312
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8406",
+        "addr:housenumber": "5",
+        "addr:street": "RUE DU GÉNÉRAL DE GAULLE",
+        "addr:zipcode": "53000",
+        "addr:city": "Laval",
+        "phone": "",
+        "opening_hours": "Mo-Th 09:30-19:00; Fr-Sa 09:30-19:30; Su 11:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.774390830688,
+          48.070676399059
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9841",
+        "addr:housenumber": "",
+        "addr:street": "CC POLE SUD ROUTE DE CLISSON",
+        "addr:zipcode": "44115",
+        "addr:city": "Nantes",
+        "phone": "",
+        "opening_hours": "Mo-Th 09:30-20:00; Fr-Sa 09:30-20:30",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.466819394416,
+          47.187326716427
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "4272",
+        "addr:housenumber": "14",
+        "addr:street": "Rue de Famars",
+        "addr:zipcode": "59300",
+        "addr:city": "Valenciennes",
+        "phone": "+33 3 27 42 73 15",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.5221077988113,
+          50.3565556
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "3745",
+        "addr:housenumber": "87B",
+        "addr:street": "Av. François Mitterrand",
+        "addr:zipcode": "85340",
+        "addr:city": "Olonne-Sur-Mer",
+        "phone": "+33 2 51 04 16 55",
+        "opening_hours": "Mo-Th 09:30-19:30; Fr 09:30-20:00; Sa 09:00-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.777949,
+          46.5156132
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7397",
+        "addr:housenumber": "10",
+        "addr:street": "Rond-point de la Corbinerie",
+        "addr:zipcode": "44400",
+        "addr:city": "Reze",
+        "phone": "+33 2 51 70 91 79",
+        "opening_hours": "Mo-Sa 09:30-20:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.547724683606,
+          47.160913180959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11257",
+        "addr:housenumber": "",
+        "addr:street": "Blvd du Général de Gaulle BP42",
+        "addr:zipcode": "44000",
+        "addr:city": "Nantes",
+        "phone": "+33 2 51 82 45 64",
+        "opening_hours": "Mo-Sa 10:00-20:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.536949809954,
+          47.204812140035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9674",
+        "addr:housenumber": "14",
+        "addr:street": "Rte de Paris, CC Paridis",
+        "addr:zipcode": "44300",
+        "addr:city": "Nantes",
+        "phone": "+33 2 28 16 96 99",
+        "opening_hours": "Mo-Sa 09:30-20:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.516167550847,
+          47.249528853167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "5682",
+        "addr:housenumber": "28",
+        "addr:street": "Rue Thiers",
+        "addr:zipcode": "64100",
+        "addr:city": "Bayonne",
+        "phone": "+33 5 59 50 11 90",
+        "opening_hours": "Mo-Fr 10:00-19:30; Sa 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.477285,
+          43.492361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "12705",
+        "addr:housenumber": "",
+        "addr:street": "Av.Jean Leon Laporte, LocalE131.",
+        "addr:zipcode": "64600",
+        "addr:city": "Anglet",
+        "phone": "+33 5 59 64 28 34",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.498694124853,
+          43.487945651729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11343",
+        "addr:housenumber": "",
+        "addr:street": "Boulevard Salvador Allende, Zone Commerciale Atlantis",
+        "addr:zipcode": "44800",
+        "addr:city": "Saint-Herblain",
+        "phone": "+33 2 28 07 71 05",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 12:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.630737346404,
+          47.224982247423
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11809",
+        "addr:housenumber": "",
+        "addr:street": "CC Mondeville 613 Rd",
+        "addr:zipcode": "14120",
+        "addr:city": "Mondeville",
+        "phone": "+33 2 31 83 59 75",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.291273211424,
+          49.1642420072
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "6512",
+        "addr:housenumber": "",
+        "addr:street": "RUE JEAN JOSEPH ETIENNE LENOIR",
+        "addr:zipcode": "62700",
+        "addr:city": "Bruay-La-Buissière",
+        "phone": "",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.588836,
+          50.492759
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "3820",
+        "addr:housenumber": "2",
+        "addr:street": "Faubourg des postes",
+        "addr:zipcode": "59000",
+        "addr:city": "Lille",
+        "phone": "",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.0471435238036,
+          50.615527153649
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10779",
+        "addr:housenumber": "70",
+        "addr:street": "Quai Frissard",
+        "addr:zipcode": "76600",
+        "addr:city": "Le Havre",
+        "phone": "+33 2 35 25 33 48",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          0.1300016455078,
+          49.490520621738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "12582",
+        "addr:housenumber": "15 - 17",
+        "addr:street": "Rue de Bethune",
+        "addr:zipcode": "59800",
+        "addr:city": "Lille",
+        "phone": "+33 3 20 25 33 96",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.0642229999998,
+          50.6348192
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10139",
+        "addr:housenumber": "100",
+        "addr:street": "CC Euralille",
+        "addr:zipcode": "59777",
+        "addr:city": "Lille",
+        "phone": "+33 3 28 36 44 78",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.073041863932,
+          50.637454689192
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11249",
+        "addr:housenumber": "",
+        "addr:street": "Rue de la Gare",
+        "addr:zipcode": "14000",
+        "addr:city": "Caen",
+        "phone": "+33 2 31 84 85 47",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.350258470886,
+          49.177904184576
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10143",
+        "addr:housenumber": "22",
+        "addr:street": "Rue Casimir Perier",
+        "addr:zipcode": "76600",
+        "addr:city": "Le Havre",
+        "phone": "+33 2 35 19 00 11",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "collections": "women;men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          0.1120169626349,
+          49.495242313361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9713",
+        "addr:housenumber": "",
+        "addr:street": "Boulevard du Val",
+        "addr:zipcode": "14200",
+        "addr:city": "Herouville-Saint-Clair",
+        "phone": "",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "collections": "women;men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.329182516705,
+          49.205640193087
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11932",
+        "addr:housenumber": "",
+        "addr:street": "Av. Gd Cottignies-local 58-59",
+        "addr:zipcode": "59290",
+        "addr:city": "Wasquehal",
+        "phone": "+33 3 20 08 90 32",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.1231645410698,
+          50.680167314501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "2166",
+        "addr:housenumber": "",
+        "addr:street": "Zone d'activite la Rigourdiere",
+        "addr:zipcode": "35510",
+        "addr:city": "Rennes",
+        "phone": "",
+        "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-18:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.591224884061,
+          48.113325152952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "9730",
+        "addr:housenumber": "1",
+        "addr:street": "Route de Roncq, Aushoping promenade de Flandre",
+        "addr:zipcode": "59960",
+        "addr:city": "Neuville-En-Ferrain",
+        "phone": "+33 3 20 94 08 01",
+        "opening_hours": "Mo-Th 10:00-19:30; Fr-Sa 10:00-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          3.1438755714111,
+          50.743692737544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10745",
+        "addr:housenumber": "3",
+        "addr:street": "Rue du Bosphore",
+        "addr:zipcode": "35200",
+        "addr:city": "Rennes",
+        "phone": "+33 2 23 61 09 08",
+        "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.679553434323,
+          48.082775091331
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "12730",
+        "addr:housenumber": "",
+        "addr:street": "Gal. Lafayette, 4 Duguay Trouin",
+        "addr:zipcode": "35000",
+        "addr:city": "Rennes",
+        "phone": "+33 2 99 79 11 17",
+        "opening_hours": "Mo-Sa 09:00-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.680475460049,
+          48.110619407887
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8094",
+        "addr:housenumber": "5939",
+        "addr:street": "RTE ST MALO, LOCAL 62-43",
+        "addr:zipcode": "35760",
+        "addr:city": "Rennes",
+        "phone": "+33 2 99 31 55 23",
+        "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:00-20:00; Su 10:00-19:00",
+        "collections": "women;men",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.695814787866,
+          48.137778726676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10977",
+        "addr:housenumber": "60",
+        "addr:street": "Rue Saint-Jean",
+        "addr:zipcode": "62520",
+        "addr:city": "Le Touquet-Paris-Plage",
+        "phone": "+33 3 21 05 72 04",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-19:30; Su 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.5858183,
+          50.523447
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "4277",
+        "addr:housenumber": "4",
+        "addr:street": "Rue de la Marine",
+        "addr:zipcode": "59140",
+        "addr:city": "Dunkerque",
+        "phone": "+33 3 28 66 45 45",
+        "opening_hours": "Mo 14:00-19:00; Tu 10:00-12:00,14:00-19:00; We 14:00-19:00; Th-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.3762982,
+          51.034507
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10807",
+        "addr:housenumber": "1001",
+        "addr:street": "Blvd du Kent",
+        "addr:zipcode": "62231",
+        "addr:city": "Coquelles",
+        "phone": "+33 3 21 00 90 02",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "collections": "women;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          1.8081149006637,
+          50.933964201837
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "7396",
+        "addr:housenumber": "",
+        "addr:street": "Rue Théophraste Renaudot",
+        "addr:zipcode": "56000",
+        "addr:city": "Vannes",
+        "phone": "+33 2 97 43 94 75",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.786297397483,
+          47.662718420668
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11577",
+        "addr:housenumber": "78",
+        "addr:street": "Av Ambroise Croizat",
+        "addr:zipcode": "56600",
+        "addr:city": "Lanester",
+        "phone": "+33 2 97 50 27 84",
+        "opening_hours": "Mo-Sa 09:30-20:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.342965269172,
+          47.77580367593
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "8261",
+        "addr:housenumber": "",
+        "addr:street": "CC Cornouailles163 Route de Benodet",
+        "addr:zipcode": "29000",
+        "addr:city": "Quimper",
+        "phone": "+33 2 98 50 88 79",
+        "opening_hours": "Mo-Sa 09:30-19:30",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.096541361375,
+          47.975831410698
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "11805",
+        "addr:housenumber": "29",
+        "addr:street": "Rue de Gouesnou",
+        "addr:zipcode": "29200",
+        "addr:city": "Brest",
+        "phone": "+33 2 98 84 87 70",
+        "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:00-20:00",
+        "collections": "women;men;children",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.465967567736,
+          48.408498809602
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "brand": "Mango",
+        "name": "Mango",
+        "ref:fr:mango:id": "10481",
+        "addr:housenumber": "65",
+        "addr:street": "Rue Jean Jaures",
+        "addr:zipcode": "29200",
+        "addr:city": "Brest",
+        "phone": "+33 2 98 46 12 55",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "collections": "women",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.480007999998,
+          48.3933638
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
